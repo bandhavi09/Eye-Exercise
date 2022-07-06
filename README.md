@@ -1,14 +1,9 @@
 # Eye-Exercise
+## Eye-Exercise Project
 
-First create index.html file.
-Inside head tag write a link to add css to html file.
-Inside body tag create div class = "eyes".
-Inside eyes div create two div class = "eye".
-Write a link to javascript which is ./eyes.js and html.
-Create styles.css
-First code for body then for eyes which consists of position, transform, width, text-align and top.
-After eyes write code for eye which consists of width, height, background, display, margin, border-radius, position, overflow.
-After eye write code for ball which consists of width, height, background, position, top, left, transform, border-radius.
-Create eyes.js
-call the elements which are present in html by using getElementsByClassName
-Then use document.onmousemove = (event) => {} function used to say in which direction the ball is rotating.  
+In this repository we have: index.html, styles.css, eye.js.
+In index.html write a link in which HTML and CSS are connected.
+Inside head tag create div class = "eyes".
+Inside eyes div you have to create two more div class = "eye".
+In styles.css first write code for body then eyes, eye and ball.
+In eyes.js get HTML elements by using getElementsByClassName and use onmousemove function.
