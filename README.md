@@ -1,9 +1,25 @@
 # Eye-Exercise
 ## Eye-Exercise Project
 
-In this repository we have: index.html, styles.css, eye.js.
-In index.html write a link in which HTML and CSS are connected.
-Inside head tag create div class = "eyes".
-Inside eyes div you have to create two more div class = "eye".
-In styles.css first write code for body then eyes, eye and ball.
-In eyes.js get HTML elements by using getElementsByClassName and use onmousemove function.
+# Discription
+
+In Javascript, events are actions that happen on the web page. They can be moving mouse to a user typing in some text. Events happens to most elements on the DOM and 
+manupilation the code inside the DOM. These events are good way to bind the code to user actions.
+
+# Installation
+
+Use this command to install git clone:
+
+https://github.com/bandhavianugu/Eye-Exercise
+
+# Working
+
+As you move the mouse across the screen the ball or element follows the mouse position on the screen using mouse events.
+
+# Road map
+
+I will learn advance concepts of Bootstrap, React and Node.
+
+# License information
+
+MIT License
